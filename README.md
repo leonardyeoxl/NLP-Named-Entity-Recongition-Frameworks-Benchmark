@@ -1,5 +1,10 @@
 # NLP Named Entity Recongition (NER) Frameworks Benchmark
 
+## Test Environment
+
+- Ubuntu 16.04 Virtual Machine (AMD Ryzen 5 3600 4x processor cores, 8 GB RAM)
+- Docker version 19.03.6, build 369ce74a3c
+
 ## Pretrained NER Prediction F1 Accuracy
 
 ### AllenNLP
